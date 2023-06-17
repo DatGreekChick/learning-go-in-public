@@ -40,9 +40,11 @@ statement just wraps all the imports with parens.
 
 You can only export things with a capital letter! I like that there's a
 standard for this, but it does seem restrictive. In all the dynamic languages
-with which I've worked, this is not a requirement. However, that leads me to
-the conclusion that Go is going to be heavier on object-oriented programming
-(OOP).
+with which I've worked, this is not a requirement. Go is a statically typed,
+compiled language, but it's clear this requirement is a stylistic choice from
+the creators. I don't believe C++, for instance, has such a requirement.
+Regardless, this leads me to the conclusion that Go is going to be heavier on
+object-oriented programming (OOP).
 
 If you've never tried OOP, I highly recommend it! I love a good mix of
 functional programming (FP) and OOP!
