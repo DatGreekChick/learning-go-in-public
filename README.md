@@ -24,7 +24,7 @@ what all the fuss is about! 😄
 
 ## How long are you doing this?
 
-I'll be doing this for 30 days! I chose 30 days so that I can test out [Golang]
+I'll be doing this for 30 days! I chose 30 days so that I can test out [GoLand]
 under the 30-day free trial. I'm also basing this repository off this [format]
 from [@TomLisankie]. I found this idea from my friend and former coworker
 [@alaq] who did this for [clojure].
@@ -66,13 +66,13 @@ Let's GO!
 
 | **Day** |  **Date**  |    **Topics**     |
 |:-------:|:----------:|:-----------------:|
-|    1    | 18 June 23 | [Getting Started] |
+|    1    | 17 June 23 | [Getting Started] |
 
 [go badge]:
     https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 [postgres badge]:
     https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-[golang]: https://www.jetbrains.com/go/
+[goland]: https://www.jetbrains.com/go/
 [format]: https://github.com/TomLisankie/Learning-Lisp
 [@TomLisankie]: https://github.com/TomLisankie
 [@alaq]: https://github.com/alaq
