@@ -32,6 +32,9 @@ writing out my thoughts in real time as I _go_. (See what I did there? 🤓) The
 reality might be different, but that's part of my learning process given my
 experience!
 
+Code snippets are lifted directly from the tutorial, though I occasionally add
+my own commentary or change things ever so slightly.
+
 #### Imports and exports
 
 You can write multiple `import` statements on each line, but the preferred
@@ -64,7 +67,7 @@ func main() {
 }
 ```
 
-Turns out you can use "factored" variables:
+Turns out you can also use "factored" variables (referenced below):
 
 ```go
 var (
@@ -150,7 +153,7 @@ Basically, you have many ways to declare variables:
 - Implicit typing
 - Explicit typing
 - Factored assignment (shown above)
-  - Can use any combination of the above
+  - Can use any combination of the above (depending on the closure)
 
 ```go
 package main
@@ -185,8 +188,7 @@ Pick what works best for you!
 
 ```js
 // an example of this in JavaScript
-let first,
-  second = true;
+let first, second = true;
 ```
 
 ```python
@@ -198,7 +200,10 @@ However, there is something I do like about not explicitly assigning a value to
 a variable: defaults! Go will pick the default value if you don't assign
 anything to a variable at first. For numeric types the default value is 0, for
 `bool`s the default value is false, and for `string`s the default value is an
-empty string `""`.
+empty string `""`. While other languages set a default, they're usually some
+version of `undefined`, `nil`, or `None`, etc. I'm not sure (yet!) if Go has a
+concept of truthiness or falseness, but if it does, it's clear the default
+values are falsy.
 
 #### Looping
 
@@ -225,7 +230,7 @@ func main() {
     sum2 += sum2
   }
 
-  for {} // infinite loop!
+  for {} // infinite loop! 😱
 }
 ```
 
