@@ -4,7 +4,7 @@
 
 ## What I did
 
-### Wrapping up [Tour of Go]
+### More [Tour of Go]
 
 Again, all Go snippets are lifted from this tutorial sometimes with minor
 modifications / commentary.
@@ -95,8 +95,8 @@ statements by creating a `switch` without a condition (same as `switch true`).
 package main
 
 import (
-	"fmt"
-	"time"
+  "fmt"
+  "time"
 )
 
 func main() {
@@ -198,9 +198,9 @@ func main() {
   v := Vertex{1, 2}
   p := &v
 
-	// we don't need to write (*p).X, but that's what's happening under the hood
-	p.X = 1e9
-	fmt.Println(v)
+  // we don't need to write (*p).X, but that's what's happening under the hood
+  p.X = 1e9
+  fmt.Println(v)
 }
 ```
 
