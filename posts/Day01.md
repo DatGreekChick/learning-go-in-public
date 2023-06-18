@@ -1,4 +1,4 @@
-# Day 1 Getting Started
+# Day 1: Getting Started
 
 **Date**: 17 June 2023
 

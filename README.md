@@ -81,4 +81,4 @@ Let's GO!
 [code]: ./code
 [website contact form]: https://eleniarvanitis.com/contact
 [go's documentation]: https://go.dev/learn/
-[getting started]: ./posts/Day1.md
+[getting started]: ./posts/Day01.md
