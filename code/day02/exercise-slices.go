@@ -29,19 +29,9 @@ func createTwoDimensionalArray(dx, dy int) [][]uint8 {
 func Pic(dx, dy int) [][]uint8 {
 	var arr = createTwoDimensionalArray(dx, dy)
 
-	// eventually I'll configure gofmt with my own style preferences, but until then...
 	for i := 0; i < dy; i++ {
 		for j := 0; j < dx; j++ {
-			switch {
-			case j%15 == 0:
-				arr[i][j] = 240
-			case j%3 == 0:
-				arr[i][j] = 120
-			case j%5 == 0:
-				arr[i][j] = 150
-			default:
-				arr[i][j] = 100
-			}
+			arr[i][j] = uint8((j * 10000) / (i + 2))
 		}
 	}
 
