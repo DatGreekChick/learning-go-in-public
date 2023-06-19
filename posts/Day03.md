@@ -1,4 +1,4 @@
-# Day 2: Continue Tour of Go
+# Day 3: Complete [Tour of Go]
 
 **Date**: 19 June 2023
 
