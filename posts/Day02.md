@@ -144,7 +144,11 @@ func main() {
 #### Structs
 
 A struct is a collection of fields, similar to an object-literal in JavaScript
-or a `dict` in Python. This is how we can define one:
+or a `dict` in Python. Structs in C++ are the same as C++ classes, but their
+default accessibility is public, whereas classes are inherently private. These
+examples in the tour don't go into much detail, but my guess is we're able to
+create struct methods in addition to having a collection of fields. This is how
+we can define a struct in Go:
 
 ```go
 package main
@@ -534,8 +538,8 @@ Elenis-MacBook-Pro : ~/learning-go-in-public (main *)
 IMAGE:iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAIAAADTED8xAAACK0lEQVR42uzTMQ1DIQBF0ZemEpgRgTZkoA0RzAw4aNO0YxX8f85E4E0k93nOq/ckKSV7p7Ws9Tl8b2rNnL+nJGPE2PhK40fgxgSAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAEAAIAAYAAQAAgABAACAAEAAIAAYAAQAAgABAACAAEAAIAAYAAQAAgABAACAAEAAIAAYAAQAAgABAACAAEAAIAAYAAQAAgABAACAAEAAIAAYAAQAAgABAACAAEAAIAAYAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAASAAHwBAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgABAACAAEAAIAAQAAgABgAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAAIAAQAAgABAACAAGAAEAA8M87AAD//9Ei0OJgFSnhAAAAAElFTkSuQmCC
 ```
 
-That doesn't really indicate what the image should look like, but the [Tour of Go]
-interactive editor outputs this bluescale image:
+That doesn't really indicate what the image should look like, but the [Tour of
+Go] interactive editor outputs this bluescale image:
 
 ![bluescale image]
 
