@@ -64,10 +64,11 @@ in-depth breakdowns of what I've done that day to make forward progress.
 
 Let's GO!
 
-| **Day** |  **Date**  |       **Topics**        |
-|:-------:|:----------:|:-----------------------:|
-|    1    | 17 June 23 |    [Getting Started]    |
-|    2    | 18 June 23 | [Continuing Tour of Go] |
+| **Day** |  **Date**  |       **Topics**       |
+|:-------:|:----------:|:----------------------:|
+|    1    | 17 June 23 |   [Getting Started]    |
+|    2    | 18 June 23 | [Continued Tour of Go] |
+|    3    | 19 June 23 | [Completed Tour of Go] |
 
 [go badge]:
     https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -83,4 +84,5 @@ Let's GO!
 [website contact form]: https://eleniarvanitis.com/contact
 [go's documentation]: https://go.dev/learn/
 [getting started]: ./posts/Day01.md
-[continuing tour of go]: ./posts/Day02.md
+[continued tour of go]: ./posts/Day02.md
+[completed tour of go]: ./posts/Day03.md
