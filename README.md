@@ -69,6 +69,7 @@ Let's GO!
 |    1    | 17 June 23 |   [Getting Started]    |
 |    2    | 18 June 23 | [Continued Tour of Go] |
 |    3    | 19 June 23 | [Completed Tour of Go] |
+|    4    | 20 June 23 | [Created a Go Module]  |
 
 [go badge]:
     https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -86,3 +87,4 @@ Let's GO!
 [getting started]: ./posts/Day01.md
 [continued tour of go]: ./posts/Day02.md
 [completed tour of go]: ./posts/Day03.md
+[created a go module]: ./posts/Day04.md
