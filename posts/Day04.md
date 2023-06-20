@@ -4,7 +4,7 @@
 
 ## What I did
 
-### Tutorial: [Create a Go Module]
+### [Tutorial]: Create a Go Module
 
 This is a great starting point after walking through the key language features.
 In this tutorial I'll be doing the following:
@@ -123,3 +123,4 @@ with a lowercase letter, the function is only accessible within the package wher
 it is defined.
 
 [create a go module]: https://go.dev/doc/tutorial/create-module
+[tutorial]: ../code/day04/
