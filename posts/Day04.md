@@ -98,7 +98,7 @@ This command allows you to import the module using the string
 `"example.com/greetings"` but will point to the directory where we defined it
 rather than looking online for a package published to this location.
 
-When you do this, you get this output in `go.mod:
+When you do this, you get this output in `go.mod`:
 
 ```go.mod
 module example.com/hello
@@ -119,8 +119,8 @@ which version we wanted or required.
 #### Private functions
 
 Turns out my assumption earlier was correct! When you create functions starting
-with a lowercase letter, the function is only accessible within the package where
-it is defined.
+with a lowercase letter, the function is only accessible within the package
+where it is defined.
 
 [create a go module]: https://go.dev/doc/tutorial/create-module
 [tutorial]: ../code/day04/
