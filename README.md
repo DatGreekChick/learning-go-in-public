@@ -75,6 +75,7 @@ Let's GO!
 |    7    | 23 June 23 | [Read How to Write Go Code & Started Go Web Examples] |
 |    8    | 24 June 23 |             [Set up a Postgres Database]              |
 |    9    | 25 June 23 |                     [Middleware]                      |
+|   10    | 26 June 23 |                      [Sessions]                       |
 
 [go badge]:
   https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -98,3 +99,4 @@ Let's GO!
 [read how to write go code & started go web examples]: ./posts/Day07.md
 [set up a postgres database]: ./posts/Day08.md
 [middleware]: ./posts/Day09.md
+[sessions]: ./posts/Day10.md
