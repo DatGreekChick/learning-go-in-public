@@ -76,6 +76,7 @@ Let's GO!
 |    8    | 24 June 23 |             [Set up a Postgres Database]              |
 |    9    | 25 June 23 |                     [Middleware]                      |
 |   10    | 26 June 23 |                      [Sessions]                       |
+|   11    | 27 June 23 |                        [JSON]                         |
 
 [go badge]:
   https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -100,3 +101,4 @@ Let's GO!
 [set up a postgres database]: ./posts/Day08.md
 [middleware]: ./posts/Day09.md
 [sessions]: ./posts/Day10.md
+[json]: ./posts/Day11.md
