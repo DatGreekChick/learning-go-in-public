@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/alexedwards/scs"
+	"github.com/alexedwards/scs/v2"
 )
 
 var sessionManager *scs.SessionManager
