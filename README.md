@@ -78,6 +78,7 @@ Let's GO!
 |   10    | 26 June 23 |                      [Sessions]                       |
 |   11    | 27 June 23 |                        [JSON]                         |
 |   12    | 28 June 23 |              [Completed Go Web Examples]              |
+|   13    | 29 June 23 |                [Read Middleware Post]                 |
 
 [go badge]:
   https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -104,3 +105,4 @@ Let's GO!
 [sessions]: ./posts/Day10.md
 [json]: ./posts/Day11.md
 [completed go web examples]: ./posts/Day12.md
+[read middleware post]: ./posts/Day13.md
