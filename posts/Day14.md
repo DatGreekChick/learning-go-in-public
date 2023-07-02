@@ -1,4 +1,4 @@
-# Day 13: Began Reading Effective Go
+# Day 14: Began Reading Effective Go
 
 **Date**: 30 June 2023
 
