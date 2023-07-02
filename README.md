@@ -79,6 +79,7 @@ Let's GO!
 |   11    | 27 June 23 |                        [JSON]                         |
 |   12    | 28 June 23 |              [Completed Go Web Examples]              |
 |   13    | 29 June 23 |                [Read Middleware Post]                 |
+|   14    | 30 June 23 |             [Began Reading Effective Go]              |
 
 [go badge]:
   https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -106,3 +107,4 @@ Let's GO!
 [json]: ./posts/Day11.md
 [completed go web examples]: ./posts/Day12.md
 [read middleware post]: ./posts/Day13.md
+[began reading effective go]: ./posts/Day14.md
