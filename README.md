@@ -81,6 +81,7 @@ Let's GO!
 |   13    | 29 June 23 |                [Read Middleware Post]                 |
 |   14    | 30 June 23 |             [Began Reading Effective Go]              |
 |   15    | 1 July 23  |           [Continued Reading Effective Go]            |
+|   16    | 2 July 23  |                  [More Effective Go]                  |
 
 [go badge]:
   https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
@@ -110,3 +111,4 @@ Let's GO!
 [read middleware post]: ./posts/Day13.md
 [began reading effective go]: ./posts/Day14.md
 [continued reading effective go]: ./posts/Day15.md
+[more effective go]: ./posts/Day16.md
